@@ -25,14 +25,14 @@ Herring Cove is a clean and responsive theme for Jekyll.
 ### Setup
 
 1. Install Jekyll
-2. Fork or [download](https://github.com/arnp/herring-cove/archive/master.zip) this theme repo
+2. Fork or [download](https://github.com/yolo-yao/blog/archive/master.zip) this theme repo
 3. Edit the `_config.yml` file
 
 You can change the showcase image by replacing `showcase.jpg` file in the `images` folder. I'll try to find a better way to do this soon.
 
 ### Download
 
-[download](https://github.com/arnp/herring-cove/archive/master.zip)
+[download](https://github.com/yolo-yao/blog/archive/master.zip)
 
 ### License
 * [MIT](http://opensource.org/licenses/MIT)
