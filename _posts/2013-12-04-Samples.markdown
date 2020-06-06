@@ -1,5 +1,7 @@
 ---
 title: Samples
+tags: sample test
+category: meipang
 ---
 
 # Samples
